@@ -1,0 +1,6 @@
+{
+  "name": "STUDYFORGE AI",
+  "description": "Intelligent AI-powered study planner, syllabus tracking, adaptive rescheduling, mock tests, and exam preparation companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
